@@ -5,8 +5,8 @@ One of my passions as a data analyst is creating data stories using pictures tha
 The following is a summary of each file in this repository including what methods/tools were used to create the visual and what outcomes were achieved.
 
 ### BYU Soccer Presentation FINAL EDIT.pptx
-This presentation summarizes the statistical findings of a research project I conducted with a partner under the mentorship of Dr. Gilbert Fellingham, a statistics professor at Brigham Young University. The goal of our analysis was to find meaningful insights and patterns in offensive play for the BYU men's soccer team. We met with coaching staff and others to develop powerful improvements for the team using the data. One such finding from the data was a change to backfield possession that would lead to a great increase in shots on target.
+This presentation summarizes the statistical findings of a research project I conducted with a partner under the mentorship of Dr. Gilbert Fellingham, a statistics professor at Brigham Young University. The goal of our analysis was to find meaningful insights and patterns in offensive play for the BYU men's soccer team. We met with coaching staff and others to develop powerful improvements for the team using the data. One such finding from the data was a change to backfield possession that would lead to a great increase in shots on target. The presentation was given at an annual student research conference in 2018 for members of the BYU and sports analytics communities.
 
-The presentation was given at an annual student research conference in 2018 for members of the BYU and sports analytics communities.
-
+### Player Profile Dashboard Summary.pdf
+This is a summary of a project I did in Fall 2020 with Ludis Analytics in Provo. I was tasked with creating a dashboard for displaying key visualizations and statistics for NCAA men's basketball coaches, scouts, and players. The dashboard itself is a Shiny Web Application I created in RStudio. Due to the file sizes and security purposes of the project, the app is not hosted publicly. This summary instead shows examples of the app for selected players and seasons.
 
