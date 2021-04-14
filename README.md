@@ -7,6 +7,6 @@ The following is a summary of each file in this repository including what method
 ### BYU Soccer Presentation FINAL EDIT.pptx
 This presentation summarizes the statistical findings of a research project I conducted with a partner under the mentorship of Dr. Gilbert Fellingham, a statistics professor at Brigham Young University. The goal of our analysis was to find meaningful insights and patterns in offensive play for the BYU men's soccer team. We met with coaching staff and others to develop powerful improvements for the team using the data. One such finding from the data was a change to backfield possession that would lead to a great increase in shots on target.
 
-The presentation was given at an annual student research conference in 2018 with other members of the BYU and sports analytics community.
+The presentation was given at an annual student research conference in 2018 for members of the BYU and sports analytics communities.
 
 
