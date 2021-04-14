@@ -1,7 +1,7 @@
 # Visualizations Portfolio
 One of my passions as a data analyst is creating data stories using pictures that can be easily understood. An effective visualization can be a valuable contribution to help a team in nearly any field develop insights for critical, data-driven decisions. This repository contains some of the visulations I have created for a variety of settings and teams. 
 
-# File Descriptions
+## File Descriptions
 The following is a summary of each file in this repository including what methods/tools were used to create the visual and what outcomes were achieved.
 
 ### BYU Soccer Presentation FINAL EDIT.pptx
